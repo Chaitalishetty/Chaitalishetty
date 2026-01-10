@@ -1,8 +1,8 @@
 ### Hi there. 👋 I am Chaitali Shetty
 
 
-- 🔭 I’m a web developer
-- 🌱 I’m currently learning data science and ML
+- 🔭Current working as and SAP PI consultant
+- 🌱 Looking for roles in Data engineer
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/chaitali-shetty-b198491b4/"><img align="left" height="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
