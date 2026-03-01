@@ -1,7 +1,7 @@
 ### Hi there. 👋 I am Chaitali Shetty
 
 
-- 🔭Current working as and SAP PI consultant
+- 🔭Current working as and SAP CPI consultant
 - 🌱 Looking for roles in Data engineer
 
 ### Connect with me
